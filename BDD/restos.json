@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "6387a6007d707fbda17b7d1d"
+  },
+  "nom": "la chapka",
+  "note": "4",
+  "ouverture": "9h00",
+  "fermeture": "23h00",
+  "prixMoyen": "30",
+  "urlImahge": "image_laChapka",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6387a6548738ab844531b81c"
+  },
+  "nom": "les marmottes",
+  "note": "5",
+  "ouverture": "9h30",
+  "fermeture": "18h00",
+  "prixMoyen": "23",
+  "urlImahge": "image_lesMarmottes",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6387a6a52bbbe7727e8fb8df"
+  },
+  "nom": "la cave",
+  "note": "3",
+  "ouverture": "8h30",
+  "fermeture": "19h00",
+  "prixMoyen": "15",
+  "urlImahge": "image_laCave",
+  "__v": 0
+}]

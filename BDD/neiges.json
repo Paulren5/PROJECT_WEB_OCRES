@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "638df2f9d02e9df8f5089a47"
+  },
+  "jour": "lundi",
+  "cm": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638df3303a3e97116485e5bd"
+  },
+  "jour": "mardi",
+  "cm": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638df338c15cd3056a7a5dd5"
+  },
+  "jour": "mercredi",
+  "cm": 15,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638df343cff8756e9fac8ca9"
+  },
+  "jour": "jeudi",
+  "cm": 40,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638df34f6d2dc52c815908cc"
+  },
+  "jour": "vendredi",
+  "cm": 20,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638df35e5079823e7fbe23ad"
+  },
+  "jour": "samedi",
+  "cm": 50,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638df36a101ba01e0a731e83"
+  },
+  "jour": "dimanche",
+  "cm": 67,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638df41f4d30a0b114b9b769"
+  },
+  "jour": "dimanche",
+  "cm": 67,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638df4ab50829d06f1b78b8a"
+  },
+  "jour": "dimanche",
+  "cm": 67,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638df4ad51a4a4af3e09f3e2"
+  },
+  "jour": "dimanche",
+  "cm": 67,
+  "__v": 0
+}]

@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "638937d838344d6cce8c7151"
+  },
+  "couleur": "bleue",
+  "ouverture": "8h30",
+  "fermeture": "17h30",
+  "__v": 0,
+  "value": "110",
+  "title": "chenilles",
+  "color": "#1f618d"
+},{
+  "_id": {
+    "$oid": "638937f538344d6cce8c7152"
+  },
+  "couleur": "verte",
+  "ouverture": "9h00",
+  "fermeture": "17h00",
+  "__v": 0,
+  "value": "50",
+  "title": "mickey",
+  "color": "#196f3d"
+},{
+  "_id": {
+    "$oid": "6389380538344d6cce8c7153"
+  },
+  "couleur": "rouge",
+  "ouverture": "9h00",
+  "fermeture": "16h30",
+  "__v": 0,
+  "value": "125",
+  "title": "les chapelets",
+  "color": "#a93226"
+}]
