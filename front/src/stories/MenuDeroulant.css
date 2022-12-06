@@ -1,0 +1,17 @@
+.menu{
+   
+        width: 20%;
+        height: 420px;
+        margin-left: 1575px;
+        margin-top: 30px;
+        background-color: rgba(230, 234, 240, 0.829);
+        border-radius: 15px;
+        color: black;
+  
+}
+
+.restoaff{
+        width: 115%;
+        height: 400px;
+       color: black;
+}

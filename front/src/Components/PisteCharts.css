@@ -1,0 +1,13 @@
+.App{
+    
+    width: 30%;
+    height: 350px;
+    margin-left: 770px;
+
+    margin-top: -25rem;
+    background-color: rgba(230, 234, 240, 0.829);
+     border-radius: 15px;
+     color: black;
+    
+  position: relative;
+}

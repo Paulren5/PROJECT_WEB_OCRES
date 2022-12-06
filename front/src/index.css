@@ -1,0 +1,114 @@
+:root {
+  --section-overlay: rgba(0, 0, 0, 0.7);
+  --background-overlay: rgba(0, 0, 0, 0.2);
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.app {
+  width: 100%;
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+ 
+
+}
+
+.overlay {
+  width: 100%;
+  height: 100vh;
+ 
+}
+
+.container {
+  max-width: 369px;
+  margin: 5px;
+  height: 23%;
+ 
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-direction: column;
+  padding: 0, 5rem;
+  
+}
+
+.section {
+  width: 160%;
+  padding: 0, 5rem;
+  border-radius: 1rem;
+  color: black;
+  
+}
+
+.section__inputs,
+.section__temperature {
+  display: flex;
+  margin-top: 80px;
+  
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgba(230, 234, 240, 0.829);
+}
+
+.icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+
+}
+
+.icon>h3 {
+  font-size: 15px;
+  font-weight: 200;
+  text-transform: capitalize;
+
+}
+
+.temperature>h1 {
+  font-size: 40px;
+ 
+}
+
+.geolocalisation {
+ 
+  margin-top: -176px;
+}
+
+.infoNeige {
+  width: 30%;
+  height: 350px;
+ margin-bottom: 100px;
+  margin-top: -240px;
+ 
+}
+
+.infoMail{
+  width: 30%;
+  height: 270px;
+  zoom: 1.3;
+  margin-bottom: 100px;
+
+   margin-top: -82px;
+   background-color: rgba(230, 234, 240, 0.829);
+   border-radius: 15px;
+   color: black;
+   font-size: 12px;
+}
+
+
+
+@media only screen and (min-width: 1024px) {
+  .app {
+    display:flex;
+  }
+}

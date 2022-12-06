@@ -1,0 +1,23 @@
+
+.neige{
+    width: 100%;
+    height: 95%;
+    background-position: center;
+    background-size: cover;
+    background-color: rgba(230, 234, 240, 0.829);
+    border-radius: 15px;
+   
+}
+
+.neigeInfo{
+
+    width: 100%;
+    height: 35vh;
+    
+}
+
+.neigeInfo>h2{
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
