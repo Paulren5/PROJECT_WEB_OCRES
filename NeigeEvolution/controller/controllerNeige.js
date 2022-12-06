@@ -1,0 +1,21 @@
+const mongoose = require('mongoose');
+const axios = require('axios');
+
+//on recupere le schema
+const Neige = require('../models/modeleNeige');
+
+
+
+
+////////////////////////////////////////////////////////////////////Requete pour trouver toutes les pistes//////////////////////////////////////////////////////////////////
+exports.findAll = (req, res) => {
+    Neige.find({})
+        .then((data) => {
+            console.log('Data: ', data);
+            res.json(data);
+        })
+        .catch((error) => {
+            console.log('erreur : ', error);
+        });
+}
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
